@@ -1,7 +1,0 @@
-tensorflow
-numpy
-matplotlib
-opencv-python
-scikit-learn
-scikit-learn-intelex
-pillow
