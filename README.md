@@ -53,8 +53,8 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) is employed to enhance the
     <td><b>Grad-CAM Heatmap</b></td>
   </tr>
   <tr>
-    <td><img src="images/sample.jpg" width="300"></td>
-    <td><img src="images/gradcam_result.jpg" width="300"></td>
+    <td><img src="images/kk.jpeg" width="300"></td>
+    <td><img src="images/gradcam_result.png" width="300"></td>
   </tr>
 </table>
 
@@ -95,13 +95,13 @@ The system provides:
 - Grad-CAM heatmap to interpret model focus.
 
 ### Sample Input
-<img src="images/sample.jpg" width="400">
+<img src="images/kk.jpeg" width="400">
 
 ### Prediction Output
 <img src="images/prediction.png" width="400">
 
 ### Grad-CAM Heatmap
-<img src="images/gradcam_result.jpg" width="400">
+<img src="images/gradcam_result.png" width="400">
 
 ---
 
